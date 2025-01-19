@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=Amin-Shahsavar&style=flat-square&color=blue" alt="Github View" width="100"/>
 </div>
 
-<h1 align="center">
+<h1 id="badges" align="center">
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -23,3 +23,11 @@ I am a Back-End Developer from Iran.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - :mailbox: You can reach me at my LinkedIn link at the top of readme.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
