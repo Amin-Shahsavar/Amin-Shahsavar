@@ -41,5 +41,5 @@ I am a Back-End Developer from Iran.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Amin-Shahsavar&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amin-Shahsavar&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
