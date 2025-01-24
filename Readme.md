@@ -19,9 +19,9 @@
 
 ### :man_technologist: About Me :
 I am a Back-End Developer from Iran.
-- :telescope: I’m working as a Back-End developer for building web applications and deploy them.
+- :telescope: I’m a Back-End developer who builds and deploys web applications.
 - :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: I solve problems on GeeksforGeeks and read tech articles in my free time.
 - :mailbox: You can reach me at my LinkedIn link at the top of readme.
 
 ---
